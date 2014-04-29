@@ -1,0 +1,7 @@
+development:
+  adapter: postgresql
+  database: restaurant_orders_ember_rails_development
+
+test:
+  adapter: postgresql
+  database: restaurant_orders_ember_rails_test
