@@ -1,1 +1,3 @@
-window.Orders = Ember.Application.create();
+window.Tables = Ember.Application.create();
+
+Tables.ApplicationAdapter = DS.FixtureAdapter.extend();
